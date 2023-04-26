@@ -1,0 +1,44 @@
+matches:
+  - trigger: ":neuro"
+    replace: |
+      Mental Status: AAOx4, NAD. Pleasant, cooperative. Speech clear and fluent with good repetition, comprehension, and naming.
+
+      Cranial Nerves: intact (II - XII tested).
+      I - Verbalised intact.
+      II - Normal visual acuity, normal visual fields full to confrontation.
+      III, IV, VI - Able to open eyelids. Normal extraocular movements. PERRL bilaterally. Normal direct and onsensual pupillary light reflexes.
+      V - Normal bilateral facial sensation in V1, V2, V3. Able to open jaw and bite down.
+      VII - Able to raise eyebrows, close eyelids, smile, frown, and pucker.
+      VIII - Normal bilateral auditory acuity. Normal Weber test. Normal Rinne test.
+      IX, X - Normal palate elevation, swallowing.
+      XI - Normal lateral head rotation, neck flexion, shoulder shrug.
+      XII - Midline tongue protrusion, normal strength on lateral deviation.
+ 
+      Sensation: intact bilaterally upper and lower extremities (proprioception, vibration, pain, temperature, touch, Romberg test). 
+
+      Strength and Tone: 5/5 bilateral upper and lower extremity strengths. Normal bilateral upper and lower extremity tone.
+      Upper:
+        Shoulder abduction
+        Elbow flexion
+        Elbow extension
+        Wrist extension
+        Wrist flexion
+        Pronation
+        Supination
+        Grip
+        Intrinsic finger strength
+
+      Lower: 
+        Hip flexion
+        Knee flex
+        Knee ext
+        ankle dorsi
+        ankle plantarflexion
+        Extensor hallicus longus
+        Extensor digitorum
+
+      Reflexes: 2+ reflexes bilaterally (biceps, brachioradialis, triceps, patella, achilles).  Negative Hoffman and Babinski reflex.  
+
+      No cerebellar deficit (no pronator drift, normal finger-to-nose test, normal rapid alternating movements).  
+
+      Normal gait. Able to tandem walk, heel walk, toe walk.

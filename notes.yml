@@ -1,0 +1,90 @@
+matches:
+  - trigger: ":medstudent"
+    replace: |
+      This note was written by a medical student. Preliminary report status should be regarded as NOT reviewed by an attending physician. Finalized report status indicates that the attending has reviewed the note and agrees with the plan.
+  
+  - trigger: ":soap"
+    replace: |
+      Subjective
+      Chief Concern:
+
+      History of Present Illness: X is a XX yo M/ F/ AFAB/ AMAB with a history of X presenting to the X for a chief concern of X.
+
+      Review of Systems:
+
+      Past Medical History
+      Chronical Medical Conditions:
+
+      Hospitalisations:
+
+      Past Surgical History:
+
+      Reproductive Health:
+
+      Healthcare Maintenance Topics:
+      Breast Cancer Screening: UTD mammograms
+      Colorectal Cancer Screening: UTD, colonoscopy at age 60
+      Pap Smears: UTD, gets one every 5 years
+
+      Immunisations: UTD
+
+      Medications:
+
+      Supplements/ Herbals:
+
+      Allergies: NKDA
+
+      Family History
+
+      Social History
+
+      Objective
+
+      Assessment: X is a XX yo M/ F/ AFAB/ AMAB with a history of X presenting to the X for a chief concern of X.
+
+      Plan
+
+  - trigger: ":physical"
+    replace: |
+      Vitals: Temp 36.4 - 37.6 C, HR 60-100 BPM, RR 12-18 BPM, BP 120/80 mmHg, BMI 18.5 - 24.9 kg/m^2
+      General: Well-appearing, no acute distress.
+      Head: Normocephalic, atraumatic.
+      Eyes: Sclera clear, conjunctiva normal, external ocular movements intact.
+      Ears: Tympanic membranes normal, no pain with movement of external ear.
+      Throat: Oropharynx without erythema or exudate. Mucus membranes moist.
+      Neck: Supple, full ROM grossly, no thyromegaly or nodules.
+      Lymph Nodes: No cervical lymphadenopathy.
+      CV: RRR, no M/R/G. No peripheral edema.
+      Respiratory: Normal work of breathing. CTAB, no wheezes.
+      Abdomen: +BS, non-tender to palpation, no rebound/guarding.
+      MSK: Normal bulk and tone grossly.
+      Skin: Warm, well perfused, no rashes.
+      Psychiatry: AAOx4 (person, place, time, situation). Mood appropriately reactive. Thought process linear and goal directed.
+      Neurological: Normal gait. Cranial nerves 2-12 grossly intact.
+      GU: Deferred
+
+  - trigger: ":ros"
+    replace: |
+      Constitutional: Denies weight change, night sweats, fever
+      HEENT: Denies ocular/oral/auricular pain, loss of vision/hearing/taste
+      Cardiac: Denies chest pain, palpitations, syncope
+      Respiratory: Denies SOB, chest pain, dyspnea, orthopnea
+      Gastrointestinal: Denies abdominal pain, diarrhea, emesis, melena, hematochezia
+      Genitourinary: Denies suprapubic or CVA pain, dysuria, difficulties with
+      stream, recent UTIs
+      Musculoskeletal: Denies muscle/joint pain, swelling/deformity, redness or warmth
+      Neuro: Denies headache, memory problems.
+      Psychiatric: Denies anxiety, depression, psychosis
+
+  - trigger: ":sochx"
+    replace: |
+      Substance Abuse History: Denies smoking, alcohol, recreational drug use.
+      Childhood Environment: Grew up with two married parents in a stable housing environment.
+      Abuse: Denies physical, emotional, sexual abuse.
+      Education: Completed high school.
+      Occupational Functioning: Works at a place.
+      Marriages/Kids: Married to a husband/ wife for the past X years with X kids together.
+      Social Interactions:  Has a good group of friends.
+      Legal/Financial Problems: Financially secure.
+      Spirituality: Christina/ Jewish/ Muslim/ Buddhist/ Hindu
+      Military: Has never served in the military.

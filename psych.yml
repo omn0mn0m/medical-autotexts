@@ -1,0 +1,35 @@
+matches:
+  - trigger: ":mse"
+    replace: |
+      Appearance: posture, apparent age, angry/afraid. Hygiene (well-groomed, casual, midly disheveled, disheveled, malodorous). Clothing.
+
+      Behaviour: cooperative/ engaging/ non-cooperative. Lethargic/ alert/ hyperalert. Eye contact appropriate/ fair/ poor/ intense. Psychomotor agitation/ retardation.
+
+      Speech: Appropriate/ inappropriate volume, rate, rhythm, prosody, intonation, pitch, phonation, articulate/ dysarthric, quantity, latency, spontaneity, poverty of speech, pressured, redirect/ interrupt, utterence length. Aphonia/ aphasia/ stuttering/ cluttering/ mutism/ paralinguistic/ pragmatic/ palilalia
+
+      Mood: Alexithymic/ dysthymic/ euthymic/ hyperthymic. Irritable/ angry/ anxious/ apathetic.
+
+      Affect: Normal/ constricted/ blunted/ flat/ heightened/ exaggerated intensity. Fixed/ full/ mobile/ immobile/ constricted/ restricted/ labile mobility. Reactive/ unreactive. Congruent with mood. Appropriate with situation.
+
+      Thought Process: Flight of ideas/ organised/ tangential/ circumstansial/ looseness of associations/ thought blocking/ neologisms/ echolalia/ clang associations.
+
+      Thought Content: Preoccupations. SI/ HI. Generalised/ brief/ focused/ persistent paranoia. Delusions. Obsessions/ compulsions/ ruminations. Ideas reference/ thought broadcasting/ thought withdrawal/ thought insertion/ phobias.
+
+      Perception: Auditory/ visual/ olfactory/ tactile/ gustatory hallucinations. Illusions. Deja vu. Depersonalisation/ derealisation.
+
+      Insight: Excellent/ good/ fair/ poor.
+
+      Judgement: Excellent/ good/ fair/ poor.
+
+  - trigger: ":psychros"
+    replace: |
+      Depression: Denies depressed mood, anhedonia, fatigue/ energy, guilt, appetite changes, sleep disturbances, suicidal thoughts/ intent, concentration disturbance
+      Mania/Hypomania: Denies elevated/ expansive/ irritable mood, decreased need for sleep, rapid thoughts and sleep
+      Anxiety/Panic: Denies worry most days, restlessness, muscle tension, sleep disturbance, fatigue, decreased concentration, irritability
+      Obsessions/Compulsions: Denies recurrent persistent thoughts/ images/ urges, actions to address the preceding thoughts too disruptive and time-consuming to functioning
+      Psychosis: Denies delusions, hallucinations, disorganised speech, negative symptoms, positive symptoms
+      PTSD: Denies flashbacks, nightmares, avoidance, hyperarousal, negative cognition/ mood.
+      Eating Disorder: Denies food avoidance, body dysmorphia, binge eating, compensations (purginging/ excessive exercise)
+      Deliberate Self-Harm: None.
+      Thoughts of harming self/others: None.
+
