@@ -33,3 +33,43 @@ matches:
       Deliberate Self-Harm: None.
       Thoughts of harming self/others: None.
 
+  - trigger: ":psychhx"
+    replace: |
+      Psychiatric diagnoses by history: 
+      Prior inpatient or partial psychiatric hospitalizations: 
+      Prior psychiatric providers: 
+      Prior psychotropic trials: 
+      Prior ECT: 
+      Prior suicide attempts: 
+      Prior self-injurious behaviors: 
+      Prior history of violence: 
+      Access to guns:
+
+  - trigger: ":psychrisk"
+    replace: |
+      Psychiatric Risk Assessment:
+        -Suicidality: Denies active/passive/conditional suicidal ideation, denies plan. Denies thoughts of self-harm
+        -Fixed risk factors:  Prior suicide attempt, history of self injury, white race, male, age (<25, > 65), prior marriage, low educational level (< high school), psychosocial stressors secondary to finances/employment/social status, chronic medical condition, sexual minority, military service, chronic pain, TBI, history of abuse, family history
+        -Modifiable risk factors: Mood disorder, alcohol dependence, substance use disorder, access to firearms/lethal means, anhedonia, anxiety/agitation/turmoil, global insomnia, hopelessness, recent loss​​
+        -Protective factors: Religious views, support system (familial, spousal), responsibility towards family, ready access to medical/psychiatric care, plans for future
+
+  - triggers: ["depression", ":sigecaps"]
+    replace: |
+      Sleep:
+      Interest:
+      Guilt:
+      Energy:
+      Concentration:
+      Appetite:
+      Psychomotor:
+      Suicide:
+
+  - triggers: ["mania", ":digfast"]
+    replace: |
+      Distractibility:
+      Impulsivity:
+      Grandiosity:
+      Flight of Ideas:
+      Acitivity Increase:
+      Sleep Deficit:
+      Talkativeness: 

@@ -2,13 +2,27 @@ matches:
   - trigger: ":medstudent"
     replace: |
       This note was written by a medical student. Preliminary report status should be regarded as NOT reviewed by an attending physician. Finalized report status indicates that the attending has reviewed the note and agrees with the plan.
+
+  - trigger: ":hpi"
+    form: |
+      [[name]] is a [[age]] yo [[gender]] with a history of [[pmh]] presenting to the [[location]] for a chief concern of [[cc]].
+    form_fields:
+      gender:
+        type: choice
+        values:
+          - M
+          - F
+          - AMAB
+          - AFAB
+      pmh:
+        multiline: true
   
   - trigger: ":soap"
     replace: |
       Subjective
       Chief Concern:
 
-      History of Present Illness: X is a XX yo M/ F/ AFAB/ AMAB with a history of X presenting to the X for a chief concern of X.
+      History of Present Illness: {{hpi}}
 
       Review of Systems:
 
@@ -40,9 +54,14 @@ matches:
 
       Objective
 
-      Assessment: X is a XX yo M/ F/ AFAB/ AMAB with a history of X presenting to the X for a chief concern of X.
+      Assessment: {{hpi}}
 
       Plan
+    vars:
+      - name: hpi
+        type: match
+        params:
+          trigger: ":hpi"
 
   - trigger: ":physical"
     replace: |
