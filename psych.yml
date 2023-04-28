@@ -1,25 +1,83 @@
 matches:
   - trigger: ":mse"
-    replace: |
-      Appearance: posture, apparent age, angry/afraid. Hygiene (well-groomed, casual, midly disheveled, disheveled, malodorous). Clothing.
+    form: |
+      Appearance: [[hygiene]] [[age]] yo. Posture, angry/afraid. Clothing.
 
-      Behaviour: cooperative/ engaging/ non-cooperative. Lethargic/ alert/ hyperalert. Eye contact appropriate/ fair/ poor/ intense. Psychomotor agitation/ retardation.
+      Behaviour: [[cooperation]]. [[alertness]]. [[eye_contact]] eye contact. Psychomotor agitation/ retardation.
 
       Speech: Appropriate/ inappropriate volume, rate, rhythm, prosody, intonation, pitch, phonation, articulate/ dysarthric, quantity, latency, spontaneity, poverty of speech, pressured, redirect/ interrupt, utterence length. Aphonia/ aphasia/ stuttering/ cluttering/ mutism/ paralinguistic/ pragmatic/ palilalia
 
-      Mood: Alexithymic/ dysthymic/ euthymic/ hyperthymic. Irritable/ angry/ anxious/ apathetic.
+      Mood: [[emotion]]. Irritable/ angry/ anxious/ apathetic.
 
-      Affect: Normal/ constricted/ blunted/ flat/ heightened/ exaggerated intensity. Fixed/ full/ mobile/ immobile/ constricted/ restricted/ labile mobility. Reactive/ unreactive. Congruent with mood. Appropriate with situation.
+      Affect: [[affect_intensity]] intensity. Fixed/ full/ mobile/ immobile/ constricted/ restricted/ labile mobility. Reactive/ unreactive. Congruent with mood. Appropriate with situation.
 
-      Thought Process: Flight of ideas/ organised/ tangential/ circumstansial/ looseness of associations/ thought blocking/ neologisms/ echolalia/ clang associations.
+      Thought Process: [[thought_process]]. Denies thought blocking/ neologisms/ echolalia/ clang associations.
 
       Thought Content: Preoccupations. SI/ HI. Generalised/ brief/ focused/ persistent paranoia. Delusions. Obsessions/ compulsions/ ruminations. Ideas reference/ thought broadcasting/ thought withdrawal/ thought insertion/ phobias.
 
       Perception: Auditory/ visual/ olfactory/ tactile/ gustatory hallucinations. Illusions. Deja vu. Depersonalisation/ derealisation.
 
-      Insight: Excellent/ good/ fair/ poor.
+      Insight: [[rating]].
 
-      Judgement: Excellent/ good/ fair/ poor.
+      Judgement: [[rating]].
+    form_fields:
+      hygiene:
+        type: choice
+        values: |
+          Well-groomed
+          Casual
+          Mildly disheveled
+          Disheveled
+          Malodorous
+      thought_process:
+        type: choice
+        values: |
+          Flight of ideas/ Looseness of Associations
+          Organised, goal-oriented, linear
+          Tangential/ Circumstantial
+      cooperation:
+        type: choice
+        values: |
+          Cooperative
+          Engaging
+          Non-cooperative
+      alertness:
+        type: choice
+        values: |
+          Lethargic
+          Alert
+          Hyperalert
+      emotion:
+        type: choice
+        values: |
+          Alexithymic
+          Dysthymic
+          Euthymic
+          Hyperthymic
+      affect_intensity:
+        type: choice
+        values: |
+          Normal
+          Constricted
+          Blunted
+          Flat
+          Heightened
+          Exaggerated
+      eye_contact:
+        type: choice
+        values: |
+          Appropriate
+          Good
+          Fair
+          Poor
+          Intense
+      rating:
+        type: choice
+        values: |
+          Excellent/ Appropriate
+          Good
+          Fair
+          Poor
 
   - trigger: ":psychros"
     replace: |
