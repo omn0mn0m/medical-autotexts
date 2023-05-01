@@ -42,3 +42,20 @@ matches:
       No cerebellar deficit (no pronator drift, normal finger-to-nose test, normal rapid alternating movements).  
 
       Normal gait. Able to tandem walk, heel walk, toe walk.
+
+  - trigger: ":moca"
+    form: |
+      Montreal Cognitive Assessment (MoCA): [[total]]
+      - Visuospatial/ Executive: [[vse_score]]
+      - Naming: [[naming_score]]
+      - Memory: [[memory_score]]
+      - Attention: [[attention_score]]
+      - Language: [[lang_score]]
+      - Abstraction: [[abs_score]]
+      - Delayed Recall: [[recall_score]]
+      - Orientation: [[orientation_score]]
+
+  - trigger: ":gcs"
+    form: |
+      Glasgow Coma Scale: E[[eyes]]V[[verbal]]M[[motor]]
+      

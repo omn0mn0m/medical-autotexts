@@ -82,7 +82,7 @@ matches:
   - trigger: ":psychros"
     replace: |
       Depression: Denies depressed mood, anhedonia, fatigue/ energy, guilt, appetite changes, sleep disturbances, suicidal thoughts/ intent, concentration disturbance
-      Mania/Hypomania: Denies elevated/ expansive/ irritable mood, decreased need for sleep, rapid thoughts and sleep
+      Mania/Hypomania: Denies elevated/ expansive/ irritable mood, decreased need for sleep, rapid thoughts and speech
       Anxiety/Panic: Denies worry most days, restlessness, muscle tension, sleep disturbance, fatigue, decreased concentration, irritability
       Obsessions/Compulsions: Denies recurrent persistent thoughts/ images/ urges, actions to address the preceding thoughts too disruptive and time-consuming to functioning
       Psychosis: Denies delusions, hallucinations, disorganised speech, negative symptoms, positive symptoms
@@ -111,7 +111,7 @@ matches:
         -Modifiable risk factors: Mood disorder, alcohol dependence, substance use disorder, access to firearms/lethal means, anhedonia, anxiety/agitation/turmoil, global insomnia, hopelessness, recent loss​​
         -Protective factors: Religious views, support system (familial, spousal), responsibility towards family, ready access to medical/psychiatric care, plans for future
 
-  - triggers: ["depression", ":sigecaps"]
+  - triggers: [":depression", ":sigecaps"]
     replace: |
       Sleep:
       Interest:
@@ -122,7 +122,7 @@ matches:
       Psychomotor:
       Suicide:
 
-  - triggers: ["mania", ":digfast"]
+  - triggers: [":mania", ":digfast"]
     replace: |
       Distractibility:
       Impulsivity:
@@ -131,3 +131,34 @@ matches:
       Acitivity Increase:
       Sleep Deficit:
       Talkativeness: 
+  - trigger: ":suicideriskassess"
+    form: |
+      Suicide Risk Assessment: [[risk_level]] imminent risk for suicide.
+      - Fixed Risk Factors: [[fixed_factors]]
+      - Modifiable Risk Factors: [[modifiable_factors]]
+      - Protective Risk Factors: [[protective_factors]]
+    form_fields:
+      risk_level:
+        type: choice
+        values:
+          - Low
+          - Moderate
+          - High
+      fixed_factors:
+        multiline: true
+      modifiable_factors:
+        multiline: true
+      protective_factors:
+        multiline: true
+      
+  - trigger: ":delirumrec"
+    replace: |
+      \# Delirium
+      – Continue one-to-one observation for restlessness and delirium
+      – Avoid medications that can further precipitate delirium including anticholinergics
+      – Minimize sedating medications, especially benzodiazepines and opiates
+      – Minimize telemetry and catheters as much as possible
+      – Open blinds during day, minimize interruptions at night, and round on patient as las as possible to maximize sleep 
+      – Request family members’ presence if possible, especially in evening
+      – Remind nursing staff to reorient and given reason for admission as frequently as possible
+      - Appreciate psychiatry reccomendations
