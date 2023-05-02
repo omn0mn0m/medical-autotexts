@@ -5,3 +5,4 @@ description: Text expansions for use in medical documentation
 version: 0.1.0
 author: Nam Tran
 homepage: https://github.com/omn0mn0m/medical-autotexts
+tags: ["medical"]
