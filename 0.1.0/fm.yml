@@ -1,0 +1,42 @@
+matches:
+   # abduction - supraspinatus (0 - 20), deltoid (20 - 180)
+   # adduction - coracobrachialis, pectoralis major, latissimus dorsi, teres major
+   # extension - latissimus dorsi, teres major, pectoralis major, deltoid, long head of triceps brachii
+   # flexion - pectoralis major, deltoid, coracobrachialis, long head of biceps brachii
+   # internal rotation - subscapularis, teres major, latissimus dorsi, pectoralis major, deltoid
+   # external rotation - teres minor, infraspinatus, deltoid
+  - trigger: ":shoulder:"
+    replace: |
+      Inspection: Symmetrical, no gross deformity.
+      Palpation: Normal.
+      Passive ROM: No pain on
+      Active ROM: No pain on abduction, adduction, extension, flexion, internal rotation, external rotation.
+      Strength: 5/5 abduction, adduction, extension, flexion, internal rotation, external rotation.
+      Special Tests: Negative empty can, Yergusons, Speeds, Neer, Hawkins, lift off/ belly press, apprehension.
+
+  - trigger: ":back"
+    replace: |
+      Inspection: Normal.
+      Palpation: Normal.
+      Passive ROM: No pain on 
+      Active ROM: No pain on
+      Strength: 5/5 
+      Special Tests:
+
+    # Extension - quadriceps femoris (rectus femoris, vastus lateralis, vastus medialis and vastus intermedius) assisted by tensor fasciae latae
+    # Flexion - biceps femoris, semitendinosus and semimembranosus; initiated by popliteus; assisted by gracilis and sartorius 
+  - trigger: ":knee"
+    replace: |
+      Inspection: Symmetrical, no gross deformity.
+      Palpation: Normal.
+      Passive ROM: No pain on extension, flexion.
+      Active ROM: No pain on extension, flexion.
+      Strength: 5/5 extension, flexion.
+      Special Tests: Negative ballottement, patellar grind, anterior drawer/ Lachman, posterior drawer, varus, valgus, Thessaly.
+
+  - trigger: ":welladult"
+    replace: |
+      Immunisations: Vaccine Schedules app
+      Screening Labs: USPSTF app
+      Cancer Screenings: USPSTF app
+  
