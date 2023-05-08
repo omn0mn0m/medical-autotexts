@@ -1,1 +1,11 @@
- 
+matches:
+  - triggers: [":heeadsss", ":teenscreening", ":adolescentscreening"]
+    replace: |
+      Home Environment: 
+      Education/ Employment: 
+      Eating: 
+      Activities: 
+      Drugs: 
+      Sexuality: 
+      Suicide/ Mental Health:
+      Safety (fights, car, weapons): 
