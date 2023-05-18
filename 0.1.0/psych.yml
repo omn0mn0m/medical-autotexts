@@ -88,8 +88,7 @@ matches:
       Psychosis: Denies delusions, hallucinations, disorganised speech, negative symptoms, positive symptoms
       PTSD: Denies flashbacks, nightmares, avoidance, hyperarousal, negative cognition/ mood.
       Eating Disorder: Denies food avoidance, body dysmorphia, binge eating, compensations (purginging/ excessive exercise)
-      Deliberate Self-Harm: None.
-      Thoughts of harming self/others: None.
+      Safety: Denies thoughts of self-harm, harming others, or suicidal ideation.
 
   - trigger: ":psychhx"
     replace: |

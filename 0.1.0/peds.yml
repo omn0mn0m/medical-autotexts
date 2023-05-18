@@ -1,1 +1,1090 @@
  
+matches:
+  - trigger: ":wcc11-12yr_F"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Healthy and varied diet.
+        
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        No major changes/stressors
+        In _ grade, doing well  Parents/teachers have no concerns.
+        Lives at home with _
+        Reports adequate exercise
+        Likes to _
+        Has good friends and denies bullying
+        Denies risk-taking activities
+        Guns – None    
+        
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Other Health Issues:
+        Menarche at age _.  Periods are regular and not heavy.
+        Sees a dentist regularly and has normal vision.
+        Pre-participation sports questions are negative (no syncope, chest pain with exercise, palpitations, history of concussion or first degree relatives with cardiac issues in childhood)
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Safety
+        _ Media use and internet safety
+        _ Dental care
+        _ Daily exercise
+        _ Encourage independence and responsibility
+        _ Expectations for puberty
+  
+      Physical Exam:
+        GENERAL: Well appearing
+        HEENT: PERRL. No strabismus. Tympanic membranes grey and shiny bilaterally. Teeth are without cavities or enamel defects. oropharynx clear
+        NECK: supple without nodes or thyromegaly
+        LUNGS: Good aeration. Clear to auscultation bilaterally
+        HEART: Regular rate and rhythm, no murmur; 2 + femoral pulses
+        BREASTS: Tanner _
+        ABDOMEN: Soft, non-tender, no masses or organomegaly
+        GENITOURINARY: Tanner _
+        SKIN: no rash
+        MUSCULOSKELETAL: Normal legs, back and feet, no scoliosis
+        NEUROLOGIC: normal strength, tone,  Cranial nerves grossly intact, 2+ patellar reflexes bilaterally.
+ 
+      Assessment:
+        Healthy, well-developing _ year old here for well child care with no concerns.  Growing well and doing well in school. Due for Tdap, meningococcal ACWY and HPV vaccines. Non-fasting cholesterol performed between ages of 9 and 11 and was _.  Depression and anxiety screeners reviewed and are _.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Return for HPV \# 2 in 6 or more months.
+        Return for well visit in 1 year.
+
+  - trigger: ":wcc11-12yr_M"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Healthy and varied diet.
+ 
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        No major changes/stressors
+        In _ grade, doing well  Parents/teachers have no concerns.
+        Lives at home with _
+        Reports adequate exercise
+        Likes to _
+        Has good friends and denies bullying
+        Denies risk-taking activities
+        Guns – None    
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+  
+      Other Health Issues:
+        Sees a dentist regularly and has normal vision.
+        Pre-participation sports questions are negative (no syncope, chest pain with exercise, palpitations, history of concussion or first degree relatives with cardiac issues in childhood)
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Safety
+        _ Media use and internet safety
+        _ Dental care
+        _ Daily exercise
+        _ Encourage independence and responsibility
+        _ Expectations for puberty
+  
+      Physical Exam:
+        GENERAL: Well appearing
+        HEENT: PERRL. No strabismus. Tympanic membranes grey and shiny bilaterally. Teeth are without cavities or enamel defects. oropharynx clear
+        NECK: supple without nodes or thyromegaly
+        LUNGS: Good aeration. Clear to auscultation bilaterally
+        HEART: Regular rate and rhythm, no murmur; 2 + femoral pulses
+        ABDOMEN: Soft, non-tender, no masses or organomegaly
+        GENITOURINARY: Tanner _
+        SKIN: no rash
+        MUSCULOSKELETAL: Normal legs, back and feet, no scoliosis
+        NEUROLOGIC: normal strength, tone,  Cranial nerves grossly intact, 2+ patellar reflexes bilaterally.
+ 
+      Assessment:
+        Healthy, well-developing _ year old here for well child care with no concerns.  Growing well and doing well in school. Due for Tdap, meningococcal ACWY and HPV vaccines. Non-fasting cholesterol performed between ages of 9 and 11 and was _.  Depression and anxiety screeners reviewed and are _
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Return for HPV \# 2 in 6 or more months.
+        Return for well visit in 1 year.
+
+  - trigger: ":wcc12mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Transitioning to whole milk and eating a good variety of table foods
+ 
+      Elimination:
+        Normal stool and urination. No constipation.
+ 
+      Sleep: 
+        No difficulty.  Sleeps _ hours a night.
+ 
+      Social History:
+        TB screening questions reviewed and there are no concerns.
+        Parents’ work: _
+        Childcare: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        Cruising and starting to take first steps.  Bangs toys together.  Waves bye-bye.  Babbling well and has a few specific words (_).  Is able to follow simple directions.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Rear facing car seat
+        _ Weaning from bottle
+        _ Choking dangers
+        _ Brushing teeth twice daily with fluoride toothpaste and schedule dental visit
+        _ Bedtime routines
+        _ Screen time
+        _ Childproofing 
+        _ Redirection as a “discipline” technique with strong “no” saved for times where the child is in danger.
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic. Tympanic membranes: normal landmarks without erythema. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema; normal sized tonsils. Dentition: _
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        SKIN: No lesions noted.
+        EXTREMITIES: symmetric creases; normal range of motion in hips; equal leg length/ knee height
+        NEUROLOGICAL: Normal tone. 
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        Healthy well developing 12 month old here for well child care with no concerns. Due for measles, mumps, rubella, varicella and Prevnar 13 vaccines.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Lead and hemoglobin testing completed and are _. 
+        Return for well child care at 15 months of age or sooner for concerns.
+
+      [ Fluoride Varnish Progress Note ]
+
+  - trigger: ":wcc15mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Drinking whole milk and is getting <24 oz per day.
+        Can use a cup and is transitioning away from the bottle.
+        Eating a good variety of table foods and generally eating 3 meals and 2 snacks per day.
+        Does get adequate vitamin D (600 IU) and calcium (700mg) from dairy in diet.
+ 
+      Elimination:
+        Normal stool and urination. No constipation.
+ 
+      Sleep: 
+        No difficulty.  Sleeps _ hours a night.
+ 
+      Social History:
+        Parents’ work: _
+        Childcare: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        2-3 words (_), follows one step commands.  Scribbles with a crayon.  Imitates some activities (_).  Walks well and is able to stoop and recover.  Brings toys to show parents.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Rear facing car seat
+        _ Weaning from bottle
+        _ Choking dangers
+        _ Brush teeth twice daily with fluoride toothpaste
+        _ Maintaining good bedtime routines
+        _ Screen time
+        _ Childproofing 
+        _ Stranger anxiety
+        _ Water safety
+        _ Redirection as a “discipline” technique with strong “no” saved for times where the child is in danger
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic. Tympanic membranes: normal landmarks without erythema. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema; normal sized tonsils. Dentition: _
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _ 
+        SKIN: No lesions noted.
+        EXTREMITIES: symmetric creases; normal range of motion in hips; equal leg length
+        NEUROLOGIC: normal tone.  Normal gait and coordination for age.
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        15 month old here for well child care growing and developing well with no concerns. Due for DTaP, Hepatitis A and Hib vaccines. Hemoglobin and lead testing performed at 12 month visit and were _.
+ 
+      Plan:
+        Ordered and counselled re. risks & benefits of the specific antigens received.
+        Return for well child care at 18 months of age or sooner for concerns. 
+
+  - trigger: ":wcc18mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Drinking whole milk and eating a balanced diet.
+ 
+      Elimination:
+        Normal stool and urination. No constipation.
+ 
+      Sleep: 
+        No difficulty.  Sleeps _ hours a night.
+ 
+      Social History:
+        Parents’ work: _
+        Childcare: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        >15 words, points to body parts and likes to be with others.  Walks up steps and runs. Able to use a spoon and a cup, copies some of parents’ activities.  Seems to see and hear well.
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Childproofing
+        _ Water safety
+        _ Brush teeth twice daily with fluoride toothpaste
+        _ Bedtime routines
+        _ Screen time
+        _ Daily reading
+        _ Discipline
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic. tympanic membranes: normal landmarks without erythema. Nose: clear. Mouth/throat: no oral lesions. Pharynx without exudates or erythema; normal sized tonsils.
+        Dentition: _
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, non-tender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _ 
+        SKIN: No lesions noted.
+        EXTREMITIES: symmetric creases; normal range of motion in hips; equal leg length
+        NEUROLOGIC: normal tone.  Normal gait and coordination for age.
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        Healthy well developing 18 month old here for well child care with no concerns.  MCHAT and SWYC reviewed and are _
+ 
+      Plan: 
+        Return for well child care at 24 months of age or sooner for concerns . 
+ 
+      [ Fluoride Varnish Progress Note ]
+
+  - trigger: ":wcc1mo"
+    replace: |
+      Questions/Concerns:  _ 
+ 
+      Feeding: 
+        Breast feeding every _ hours and taking vitamin D supplements.
+ 
+      Elimination: 
+        No trouble with stools or urination.
+ 
+      Sleep:
+        Sleeps on back, with no unsafe sleep items.
+        Where did baby sleep last night? _
+        Wakes to every _ hours to eat
+        
+      Development: 
+        Smiles, Startles to sound, Visually follows objects briefly, Getting tummy time, Emerging head control, Symmetric movement
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Safe sleep (including naps)
+        _ Tummy time
+        _ Infant safety & “shaken baby” prevention
+        _ Fever & infection control
+        _ Smoke avoidance
+        _ Reasons to seek medical evaluation
+        _ Recommend flu shot for household members during flu season and Tdap for close contacts.
+ 
+      Social History: 
+        No major changes.
+        Lives at home with _
+        Parents occupation: _
+        Childcare: _
+        
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+        
+      Physical Exam:
+        GENERAL: Well appearing
+        HEENT: PERRL. Red reflex present bilaterally. No cleft lip or palate, Oropharynx clear
+        NECK: No significant lymphadenopathy. No torticollis. Clavicles intact without crepitus
+        LUNGS: Good aeration. Clear to auscultation bilaterally, unlabored
+        HEART: S1/S2 normal, regular rate and rhythm, no murmur/rub/gallop; 2 + femoral pulses
+        ABDOMEN: Soft, non-tender, non-distended, no masses or hepatosplenomegaly, Umbilical stump fully healed
+        GENITOURINARY: _
+        SKIN: no rash
+        EXTREMITIES: Hips stable. Normal Ortolani and Barlow maneuvers.
+        NEUROLOGIC: Moro, suck, and palmar/plantar grasp reflexes present. No clonus
+ 
+      Assessment:
+        1 month old here for well child care.  Growing and developing normally.  Postpartum depression screener reviewed and _.
+        
+      Plan:
+        Return for WCC at 2 months of age
+        
+  - trigger: ":wcc2mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Feeding:
+        Breast feeding every _ hours and taking vitamin D supplements.
+ 
+      Elimination: 
+        No trouble with stools or urination.
+ 
+      Sleep:
+        Sleeps on back, with no unsafe sleep items.
+        Where did baby sleep last night? _
+        Usually sleeping _ hours at a time but can be as long as _ hours.
+        
+      Social History: 
+        Lives at home with _
+        Parents occupation: _
+        Childcare: _
+        Return to work plans: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development: 
+        Able to lift head while lying prone and can hold head upright when being held in parents’ arms.  Has symmetric limb movements.  Appears to “listen” and “respond” to parents and has started to have a responsive smile.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Car seat rear facing until 2 years of age
+        _ Safe sleep (including naps)
+        _ Smoke avoidance
+        _ Tummy time 
+        _ Delay solid foods until 6 months
+        _ Frustration & “shaken baby” prevention
+        _ Reasons to seek medical evaluation
+ 
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Anterior fontanelle soft, flat. Sutures apposed. Normocephalic. Nose: Clear. No discharge. Mouth/throat: No oral lesions. 
+        NECK: Supple. No significant lymphadenopathy. No torticollis.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        ANUS: No fissures or swellings. 
+        SKIN: No lesions noted.
+        EXTREMITIES: No hip clicks noted; symmetric creases and normal range of motion. Ortolani/Barlow Maneuver Negative
+        NEUROLOGIC: Normal tone. Symmetric motion all limbs.
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        2 month old here for well child check, growing and developing normally. Due for DTaP, polio, hepatitis B, Prevnar 13, Hib and rotavirus vaccines. Postpartum depression screener reviewed and _.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Return for WCC at 4 months of age or earlier for concerns.
+
+  - trigger: ":wcc2yr"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Switched to low fat milk and is off bottle.
+        Varied diet and regular meal times.
+ 
+      Elimination:
+        Normal stool and urination. No constipation.
+ 
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        TB screening questions reviewed and there are no concerns.
+        Parents’ work: _
+        Childcare: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        50+ words and speaking in 2 word phrases (_).  Can follow a 2 step command. Walks up and down steps.  Is able to throw a ball.  Plays well with other kids.
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Safety
+        _ Brush teeth twice daily with fluoride toothpaste
+        _ Smoke avoidance
+        _ Reading
+        _ Discipline
+        _ Water safety
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic. Tympanic membranes: normal landmarks without erythema. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema; normal sized tonsils. Normal dentition.
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        SKIN: No lesions noted.
+        EXTREMITIES: symmetric creases; normal range of motion in hips; equal leg length.
+        NEUROLOGIC: normal tone. Normal gait and coordination for age.
+        SPINE: Normal curvature with no defects or dimples.
+        
+      Assessment:
+        Healthy well developing 2 year old here for well child care with no concerns. Due for Hepatitis A vaccine.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Lead testing completed and is _. 
+        Return for well child care at 30 months of age or sooner for concerns. 
+
+      [ Fluoride Varnish Progress Note ]
+
+  - trigger: ":wcc30mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Getting <24 oz of low fat milk per day.
+        Eating a good variety of table foods and generally eating 3 meals and 2 snacks per day.
+        Does get adequate vitamin D (600 IU) and calcium (700mg) from dairy in diet.
+        
+      Elimination:
+        Normal stool and urination. No constipation.
+        Toilet training complete.
+ 
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Development:
+        Plays pretend, plays with other children, puts 3-4 words together, points to 6 body parts, knows correct animal sounds, can jump in place, puts clothes on with help, can wash and dry hands
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Safety
+        _ Brush teeth twice daily with fluoride toothpaste
+        _ Encourage pretend play
+        _ Limit screen time
+        _ Daily reading
+        _ Water safety
+        
+      Social History:
+        No major changes.
+        Parents’ work: _
+        Childcare: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Normocephalic, atraumatic. Pupils equal, round and reactive to light. No strabismus. Cover/uncover normal.  oropharynx clear. Normal dentition with no visible caries, enamel defects or abnormal bite. Tympanic membranes normal bilaterally.
+        NECK: Supple, full range of motion. No palpable lymphadenopathy.
+        LUNGS: Good aeration. Clear to auscultation bilaterally, unlabored
+        HEART: S1/S2 normal, regular rate and rhythm, no murmur/rub/gallop
+        ABDOMEN: Soft, non-tender, non-distended, no masses or hepatosplenomegaly
+        GENITOURINARY: _
+        SKIN: No rashes
+        EXTREMITIES: Normal extremities without cyanosis or edema
+        NEUROLOGIC: Normal strength and tone, reflexes 2+ and symmetrical
+        
+      Assessment:
+        Healthy, well developing 30 month old here for well child care with no concerns. SWYC reviewed and _
+ 
+      Plan:
+        Return for well child care at 3 years of age or sooner for concerns.
+        
+      [ Fluoride Varnish Progress Note ]
+
+  - trigger: ":wcc3yr"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Getting <24 oz of low fat milk per day.
+        Eating a good variety of table foods and generally eating 3 meals and 2 snacks per day.
+        Does get adequate vitamin D (600 IU) and calcium (700mg) from dairy in diet.
+        
+      Elimination:
+        Normal stool and urination. No constipation.
+        Toilet training complete. 
+ 
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        Parents’ work: _
+        Childcare: _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        Speaking in sentences and usually understandable.  Can dress self with supervision, alternates feet up stairs and can pedal a tricycle. Draws a circle.  Takes turns with other children and shares toys. Can see and hear well per parents.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Car seat
+        _ Brush teeth twice daily with fluoride toothpaste
+        _ Encourage pretend play
+        _ Limit screen time
+        _ Daily reading
+        _ Water safety
+        _ Helmet use
+        _ Stranger safety
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic. Tympanic membranes: normal landmarks without erythema. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema; normal sized tonsils. Normal dentition
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        SKIN: No lesions noted.
+        EXTREMITIES: Lower: Normal range of motion in hips, knees, ankles; equal leg length/ knee height. No deformity, no swelling , No increased warmth or tenderness over any of the joints .
+        NEUROLOGIC: Normal tone. Patellar tendon reflex 2+ and equal. Normal gait and coordination for age.
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        Healthy, well developing 3 year old here for well child care with no concerns. Vision screening completed and normal.
+ 
+      Plan: 
+        Return for well child care in 1 year
+
+  - trigger: ":wcc4mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Feeding: 
+        Breast feeding every _ hours and taking vitamin D supplements.
+ 
+      Elimination: 
+        No trouble with stools or urination.
+ 
+      Sleep:
+        Sleeps on back, with no unsafe sleep items.
+        Where did baby sleep last night? _
+        Usually sleeping _ hours at a time but can be as long as _ hours.
+ 
+      Social History: 
+        Lives at home with _
+        Parents occupation: _
+        Childcare: _
+        Good social supports.
+        
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development: 
+        Laughing, elicits social interaction and has a spontaneous smile.  No head lag, puts hands together and can hold a rattle.  Starting to try to roll and reach for things.
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Car seat rear facing until 2 years 
+        _ Safe sleep (including naps)
+        _ Bathtub safety
+        _ Fall avoidance, avoid walkers 
+        _ Smoke avoidance
+        _ Burn avoidance
+        _ Introduce solid foods at 6 months of age.
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Anterior fontanelle soft, flat, sutures apposed; normocephalic. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema.
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        ANUS: No fissures or swellings.
+        SKIN: No lesions noted.
+        EXTREMITIES: Symmetric creases and normal range of motion.
+        NEUROLOGICAL: Normal tone and symmetric motion observed 
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        4 month old here for well child check, growing and developing normally. Due for DTaP, polio, hepatitis B, Prevnar 13, Hib and rotavirus vaccines. Postpartum depression screener reviewed and _.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Return for WCC at 6 months of age or sooner for concerns.
+
+  - trigger: ":wcc4yr"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Healthy and varied diet with 1-2 servings of low fat milk per day and <8 oz of juice per day.
+ 
+      Elimination:
+        Normal stool and urination. No constipation or enuresis.
+ 
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        In preschool.  Parent and teachers have no concerns.
+        Lives at home with _
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        Alternates feet going down steps and is able to hop/skip.  Will copy a square and is able to button clothing. Catches a ball.  Knows colors and can recite a song from memory.  Speech is completely understandable to strangers.  Plays well with other children.
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Car safety and booster seat use
+        _ Media use
+        _ Dental care
+        _ Adequate and safe exercise
+        _ Good touch/bad touch
+        _ Encourage independence and responsibility
+ 
+      Physical Exam:
+        GENERAL: Alert, active. No apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic/Atraumatic. Tympanic membranes: normal landmarks; no erythema. Nose: Clear. Mouth/throat: no oral lesions; normal dentition. Pharynx: no exudates or erythema.
+        NECK: Supple. No lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        SKIN: No lesions noted.
+        EXTREMITIES: Lower: normal range of motion in hips, knees, ankles; equal leg length/ knee height. No deformity, no swelling. No increased warmth or tenderness over any of the joints. Upper: normal range of motion of shoulder, elbows, wrist, normal strength - 5/5.
+        NEUROLOGIC: Normal tone. Normal gait and coordination for age.
+        SPINE: Normal curvature. No scoliosis noted.
+ 
+      Assessment:
+        Healthy well developing 4 year old here for well child care with no concerns. Hearing and vision screen completed and normal. Due for measles, mumps, rubella, varicella, polio and DTaP vaccines.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Return for well child care in 1 year.
+
+  - trigger: ":wcc5yr"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Healthy and varied diet with <24 oz of milk per day and <8 oz of juice per day.
+ 
+      Elimination:
+        Normal stool and urination. No constipation or enuresis.
+ 
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        No major changes/stressors
+        In preschool/kindergarten, doing well  Parents/teachers have no concerns.
+        Lives at home with _
+        Reports adequate exercise
+        Likes to _
+        Has good friends and denies bullying
+        Guns – None      
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        Able to dress self, skip, jump, run and climb.  Able to print first name and can draw a person.  Helps out with some chores and can count to 10 easily. No concerns.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Safety
+        _ Media use
+        _ Dental care
+        _ Smoke avoidance
+        _ Daily exercise
+ 
+      Physical Exam:
+        GENERAL: Alert, active. No apparent distress. Well developed. Well nourished.
+        HEENT: Head: Normocephalic/atraumatic. Tympanic membranes: normal landmarks; no erythema. Nose: Clear. Mouth/throat: no oral lesions; normal dentition. Pharynx: no exudates or erythema.
+        NECK: Supple. No lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        SKIN: No lesions noted.
+        EXTREMITIES: Lower: normal range of motion in hips, knees, ankles; equal leg length/ knee height. No deformity, no swelling. No increased warmth or tenderness over any of the joints. Upper: Normal range of motion of shoulder, elbows, wrist, normal strength - 5/5.
+        NEUROLOGIC: Normal tone. Cranial nerves grossly intact. Patellar tendon reflex 2+ and equal. Normal gait and coordination for age.
+        SPINE: Normal curvature. No scoliosis noted.
+ 
+      Assessment:
+        Healthy, well developing 5 year old here for well child care with no concerns.  Growing well and doing well in school. Vision and hearing screen completed and normal.
+ 
+      Plan: 
+        Return for well child care in 1 year
+
+  - trigger: ":wcc6-10yr"
+    replace: |
+      Questions/Concerns:  _
+      
+      Nutrition: 
+        Healthy and varied diet with <24 oz of milk per day and <8 oz of juice per day.
+        
+      Elimination:
+        Normal stool and urination. No constipation or enuresis.
+        
+      Sleep: 
+        Good sleep pattern:  _ hours per night.
+ 
+      Social History:
+        No major changes/stressors
+        In _ grade, doing well  Parents/teachers have no concerns.
+        Lives at home with _
+        Reports adequate exercise
+        Likes to _
+        Has good friends and denies bullying
+        Guns – None   
+  
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Development:
+        Normal language/psychological-emotional-social/fine & gross motor
+        No concerns
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Safety
+        _ Media use
+        _ Dental care
+        _ Smoke avoidance
+        _ Daily exercise
+        _ Encourage independence and responsibility
+ 
+      Physical Exam:
+        GENERAL: Well appearing
+        HEENT: PERRL. No strabismus. tympanic membranes with normal landmarks and light reflex, Teeth
+        without caries or enamel defects. OP clear, no tonsillar hypertrophy
+        NECK: supple without adenopathy
+        LUNGS: Good aeration. Clear to auscultation bilaterally
+        HEART: Regular rate and rhythm, no murmur
+        ABDOMEN: Soft, non-tender, no masses or organomegaly
+        GENITOURINARY: Tanner stage _
+        SKIN: no rash
+        MUSCULOSKELETAL: No joint findings, no deformity or other abnormality
+        NEUROLOGIC: normal strength, tone,  Cranial nerves grossly intact, 2+ patellar reflexes bilaterally.
+ 
+      Assessment:
+        Healthy, well developing _ year old here for well child care with no concerns.  Growing well and doing well in school. Vision and hearing screen completed and normal.
+ 
+      Plan: 
+        Non fasting lipid screening performed (9 years of age) and _
+        Return for well child care in 1 year
+
+  - trigger: ":wcc6mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Feeding: 
+        Breast feeding every _ hours and taking vitamin D supplements.
+        Has started solid foods and is getting several ounces of purees per day.
+ 
+      Elimination: 
+        No trouble with stools or urination.
+        
+      Sleep:
+        Sleeps on back, with no unsafe sleep items.
+        Where did baby sleep last night? _
+        Sleeps through the night (_pm to _am) and is taking 2 naps per day.
+        
+      Social History: 
+        Lives at home with _
+        Parents occupation: _
+        Childcare: _
+        
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+        
+      Development: 
+        Using a raking grasp and is able to transfer objects from one hand to the other.  Rolls over and sits supported.  Turns to parents’ voice and is babbling.
+        
+      Anticipatory Guidance (checked items discussed):
+        _ Car seat rear facing until 2 years 
+        _ Safe sleep (including naps)
+        _ Bathtub safety
+        _ Baby-proofing of house
+        _ Smoke avoidance
+        _ Introduce solid foods and sippy cup
+        _ Brush teeth twice daily with fluoride toothpaste
+        _ Choking dangers
+ 
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Anterior fontanelle soft, flat/sutures apposed/normocephalic. Tympanic membranes: normal landmarks without erythema. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema. Dentition: _
+        NECK: Supple. There is no significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        ANUS: No fissures or swellings. SKIN: No lesions noted.
+        EXTREMITIES: Symmetric creases and normal range of motion.
+        NEUROLOGIC: Normal tone and symmetric motion observed. 
+        SPINE: Normal curvature with no defects or dimples.
+        
+      Assessment:
+        Well 6 month old.  Due for DTaP, polio, hepatitis B and Prevnar 13 vaccines. Postpartum depression screener reviewed and _.
+ 
+      Plan: 
+        Ordered and counselled re. risks & benefits of the specific antigens received. 
+        Return for WCC at 9 months of age or sooner for concerns.
+
+  - trigger: ":wcc9mo"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Feeding: 
+        Breast feeding every _ hours and taking vitamin D supplements.
+        Eating solids and starting to eat table foods. 
+        
+      Elimination: 
+        No trouble with stools or urination.
+        
+      Sleep:
+        Sleeps on back, with no unsafe sleep items.
+        Where did baby sleep last night? _
+        No difficulty.  Sleeps _ hours a night.
+        
+      Social History: 
+        No major changes.
+        Lives at home with _
+        Parents occupation: _
+        Childcare: _
+        
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+        
+      Development: 
+        Crawling, babbles with consonant sounds, uses a pincer grasp and sits well unsupported. Seems to see and hear well and plays games (”so big” “peek-a-boo”) with parents.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Safety/childproofing
+        _ Safe sleep (including naps)
+        _ Feeding
+        _ Separation anxiety
+        _ Bedtime routines 
+        _ Screen time
+        _ Limit setting
+        _ Dental visit at 1 year of age and brush teeth twice daily with fluoride toothpaste
+      
+      Physical Exam:
+        GENERAL: Alert, engaging, no apparent distress. Well developed. Well nourished.
+        HEENT: Head: Anterior fontanelle soft, flat/sutures apposed/normocephalic. Tympanic membranes: normal landmarks without erythema. Nose: Clear. Mouth/throat: No oral lesions. Pharynx without exudates or erythema. Dentition: _
+        NECK: Supple. No significant lymphadenopathy.
+        LUNGS: Clear to auscultation with equal breath sounds. No wheezes, rales or rhonchi.
+        HEART: Regular rate and rhythm; normal S1/S2. No murmur. Femoral pulse 2+ and equal.
+        ABDOMEN: Soft, nontender, normal bowel sounds. No hepatosplenomegaly. No masses. No hernia.
+        GENITOURINARY: _
+        ANUS: No fissures or swellings.
+        SKIN: No lesions noted.
+        EXTREMITIES: Symmetric creases and normal range of motion. Equal knee height
+        NEUROLOGIC: Normal tone and symmetric motion of all limbs observed.
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        9 month old here for well child care.  Growing and developing normally.  SWYC reviewed and _
+ 
+      Plan: 
+        Return for WCC at 12 months of age or sooner for concerns.
+
+      [ Fluoride Varnish Progress Note ]
+
+  - trigger: ":wccadol_F"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Healthy and varied diet with adequate vitamin D (600 IU) and calcium (1000mg) from dairy in diet. She has no concerns about her weight. 
+ 
+      Sleep: 
+        No difficulty.  Sleeps from _pm to _am.
+ 
+      Social History:
+        In the _ grade at _ and is doing well in school. Parent and teachers have no concerns.
+        Reports getting adequate exercise and has several things she likes to do for fun including _.
+        No difficulty making friends and has good friendships with same aged peers.
+        Lives at home with _ and gets along well with her family.
+        Denies substance abuse and sexual activity.
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+        
+      Other Health Issues:
+        Sees a dentist regularly and has normal vision.  Periods are regular and not heavy.
+        No 1st degree family members with hyperlipidemia at an early age.
+        Pre-participation sports questions are negative (no syncope, chest pain with exercise, palpitations, history of concussion or first degree relatives with cardiac issues in childhood)
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Car safety (seat belt, no texting and driving)
+        _ Media use and internet safety
+        _ Dental care
+        _ Adequate and safe exercise daily
+        _ Substance use avoidance and safe sex
+ 
+      Physical Exam:
+        GEN: Well appearing
+        HEENT: PERRL. No strabismus. Tympanic membranes grey and shiny bilaterally. Teeth are without cavities or enamel defects. OP clear
+        NECK: supple without nodes
+        LUNGS: Good aeration. Clear to auscultation bilaterally
+        HEART: Regular rate and rhythm, no murmur; 2 + femoral pulses
+        BREASTS: Tanner _
+        ABDOMEN: Soft, non-tender, no masses or organomegaly
+        GENITOURINARY: Tanner _
+        SKIN: no rash
+        MUSCULOSKELETAL: Normal legs, back and feet, no scoliosis
+        NEUROLOGIC: normal strength, tone,  Cranial nerves grossly intact, 2+ patellar reflexes bilaterally.
+        
+      Assessment:
+        _ year old here for well care with no concerns.  Growing well and doing well in school.
+ 
+      Plan: 
+        Non fasting lipid screening performed (17 years of age) and _
+        Return for WCC in 1 year.
+
+  - trigger: ":wccadol_M"
+    replace: |
+      Questions/Concerns:  _
+ 
+      Nutrition: 
+        Healthy and varied diet with adequate vitamin D (600 IU) and calcium (1000mg) from dairy in diet. He has no concerns about his weight.
+        
+      Sleep: 
+        No difficulty.  Sleeps from _pm to _am.
+ 
+      Social History:
+        In the _ grade at _ and is doing well in school. Parent and teachers have no concerns.
+        Reports getting adequate exercise and has several things he likes to do for fun including _.
+        No difficulty making friends and has good friendships with same aged peers.
+        Lives at home with _ and gets along well with his family.
+        Denies substance abuse and sexual activity.
+        
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _ 
+  
+      Other Health Issues:
+        Sees a dentist regularly and has normal vision.
+        No 1st degree family members with hyperlipidemia at an early age.
+        Pre-participation sports questions are negative (no syncope, chest pain with exercise, palpitations, history of concussion or first degree relatives with cardiac issues in childhood)
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Car safety (seat belt, no texting and driving)
+        _ Media use and internet safety
+        _ Dental care
+        _ Adequate and safe exercise daily
+        _ Substance use avoidance and safe sex
+ 
+      Physical Exam:
+        GEN: Well appearing
+        HEENT: PERRL. No strabismus. Tympanic membranes grey and shiny bilaterally. Teeth are without cavities or enamel defects. OP clear
+        NECK: supple without nodes
+        LUNGS: Good aeration. Clear to auscultation bilaterally
+        HEART: Regular rate and rhythm, no murmur; 2 + femoral pulses
+        ABDOMEN: Soft, non-tender, no masses or organomegaly
+        GENITOURINARY: Tanner _
+        SKIN: no rash
+        MUSCULOSKELETAL: Normal legs, back and feet, no scoliosis
+        NEUROLOGIC: normal strength, tone,  Cranial nerves grossly intact, 2+ patellar reflexes bilaterally.
+        
+      Assessment:
+        _ year old here for well child care with no concerns.  Growing well and doing well in school.
+ 
+      Plan: 
+        Non fasting lipid screening performed (17 years of age) and _
+        Return for WCC in 1 year.
+
+  - trigger: ":wccnewborn"
+    replace: |
+      Birth Hx:
+        [ Gestational Age ]
+        Born via spontaneous vaginal delivery.Hearing screen and pulse oximetry screening passed.  Hepatitis B vaccine given in nursery.
+        
+        Maternal prenatal Labs unremarkable, no issues with jaundice and no ABO incompatibility (see discharge note for details)
+ 
+      Weight:
+        Birth: _ g
+        Discharge: _ g (_% below)
+        Today: _ g
+        Below BWt.: _%
+ 
+      Questions/Concerns: _
+ 
+      Feeding:  
+        Breast feeding every _ hours and taking vitamin D supplements.
+ 
+      Elimination: 
+        No trouble with stools or urination.
+        Stools are transitioning
+ 
+      Sleep:
+        Sleeps on back, with no unsafe sleep items.
+        Where did baby sleep last night? _
+        Wakes every _ hours to eat
+ 
+      Development: 
+        Regards face, responds to noise, equal limb motion, startle response.
+ 
+      Anticipatory Guidance (checked items discussed):
+        _ Feeding
+        _ Safe sleep (including naps)
+        _ Infant safety & “shaken baby” prevention
+        _ Baby blues and post-partum depression
+        _ Fever & infection control
+        _ Smoke avoidance
+        _ Reasons to seek medical evaluation
+        _ Recommend flu shot for household members during flu season and Tdap for close contacts.
+ 
+      Social History: 
+        Lives with _
+        Good social supports
+        No history of postpartum depression
+ 
+        Social needs assessment completed.
+        Positive items: _
+        Interventions/comments: _
+ 
+      Physical Exam:
+        GENERAL: Well appearing, content, responsive infant, parent attentive
+        HEENT: NCAT, AFOF, Normal sutures, red reflex present bilaterally, Sclerae clear, no clefts of lip or palate, Ears in alignment, Auditory canals patent, no pits or ear tags, Palate intact, OP Clear, Nose patent
+        NECK: Supple without nodes or masses, clavicles intact without crepitus
+        LUNGS: Good aeration. CTAB
+        CHEST: Symmetric.
+        HEART: RRR, without murmur; 2 + femoral pulses; well perfused.
+        ABDOMEN: Soft, ND, no masses, no HSM. No obvious discomfort with palpation. Cord attached, no erythema, foul odor or discharge
+        GENITOURINARY: _
+        SKIN: Intact, no lesions, no jaundice, warm
+        EXTREMITIES: Moves all extremities. No deformities, abnormal creases, leg length discrepancy.  
+        Hips stable. Normal Ortolani and Barlow maneuvers. 
+        NEUROLOGIC: Normal tone, rooting, suck, moro, tonic neck
+        SPINE: Normal curvature with no defects or dimples.
+ 
+      Assessment:
+        Healthy _ day old with _ g weight loss since discharge from hospital.  Feeding well and no jaundice concerns. 
+ 
+      Plan: 
+        Routine Care
+        Return for _
+
