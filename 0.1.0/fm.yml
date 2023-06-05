@@ -40,3 +40,163 @@ matches:
       Screening Labs: USPSTF app
       Cancer Screenings: USPSTF app
   
+  - trigger: ":ippe"
+    replace: |
+      Subjective:
+        CC: Initial Preventative Physical Examination
+        
+        Past Medical History:
+          Medical Conditions:
+
+
+          Hospitalisations: 
+
+          
+          Past Surgical History:
+
+
+          Allergies:
+
+
+          Medications:
+
+
+          Supplements:
+
+
+        Family History:
+
+
+        Social History:
+          Diet:
+
+
+          Physical Activity:
+
+
+          History of Substance Use:
+            Alcohol: 
+            Tobacco: 
+            Illicit Drug Use: 
+
+        Mood Disorder Risk Assessment:
+          Modifiable Risk Factors: 
+          Fixed Risk Factors: 
+          Protective Factors:
+
+        Functional Ability/ Level of Safety:
+          Hearing Impairment:
+          Activities of Daily Living:
+          Fall Risk:
+          Home Safety:
+
+        End-of-Life Planning: 
+
+      Objective:
+        Vital Signs:
+          Height:
+          Weight:
+          BMI:
+          Blood Pressure:
+
+        Diagnostic Tests:
+          Visual Acuity Screen:
+
+      Assessment/ Plan:
+        Education/ Counseling:
+
+        Referrals: 
+
+  - trigger: ":awv"
+    replace: |
+      Health Risk Assessment:
+        Demographics:
+
+        Health Status:
+
+        Psychosocial Risks:
+          Depression:
+          Life Satisfaction:
+          Stress:
+          Anger:
+          Loneliness:
+          Social Isolation:
+          Pain:
+          Fatigue:
+
+        Behavioural Risks:
+          Tobacco Use:
+          Physical Activity:
+          Nutrition and Oral Health:
+          Alcohol Consumption:
+          Sexual Health:
+          Motor Vehicle Safety:
+          Home Safety:
+
+        Activities of Daily Living:
+          Dressing:
+          Feeding:
+          Toileting:
+          Grooming:
+          Physical Ambulation:
+
+        Instrumental ADLs:
+          Phone:
+          Housekeeping:
+          Laundry:
+          Mode of Transportation:
+          Shopping:
+          Medication Management:
+          Finances:
+
+      Medical History:
+        Medical Conditions:
+
+        Hospitalisations: 
+          
+        Surgical History:
+
+        Allergies: 
+
+        Medications:
+
+        Supplements:
+
+      Family History:
+
+      Mood Disorder Risk Assessment:
+        Modifiable Risk Factors: 
+        Fixed Risk Factors: 
+        Protective Factors:
+
+      History of Substance Use:
+        Alcohol: 
+        Tobacco: 
+        Illicit Drug Use: 
+
+      Vitals:
+        Height:
+        Weight:
+        BMI:
+        Blood Pressure:
+
+      Cognitive Impairements:
+        Cognitive Testing:
+        Health Disparities:
+        Chronic Conditions:
+        Other Factors:
+
+      Current Providers and Suppliers:
+
+      Screening Schedule:
+
+      Interventions Recommended:
+
+      Referrals:
+
+      Advance Care Planning:
+        Advance Directive Preparation:
+        Future Care Decisions:
+        How to Let Others Know:
+        Caregiver Identification:
+
