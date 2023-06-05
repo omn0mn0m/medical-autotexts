@@ -5,7 +5,7 @@ matches:
    # flexion - pectoralis major, deltoid, coracobrachialis, long head of biceps brachii
    # internal rotation - subscapularis, teres major, latissimus dorsi, pectoralis major, deltoid
    # external rotation - teres minor, infraspinatus, deltoid
-  - trigger: ":shoulder:"
+  - trigger: ":shoulder"
     replace: |
       Inspection: Symmetrical, no gross deformity.
       Palpation: Normal.
