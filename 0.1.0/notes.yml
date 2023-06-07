@@ -89,8 +89,7 @@ matches:
       Cardiac: Denies chest pain, palpitations, syncope
       Respiratory: Denies SOB, chest pain, dyspnea, orthopnea
       Gastrointestinal: Denies abdominal pain, diarrhea, emesis, melena, hematochezia
-      Genitourinary: Denies suprapubic or CVA pain, dysuria, difficulties with
-      stream, recent UTIs
+      Genitourinary: Denies suprapubic or CVA pain, dysuria, difficulties with stream, recent UTIs
       Musculoskeletal: Denies muscle/joint pain, swelling/deformity, redness or warmth
       Neuro: Denies headache, memory problems.
       Psychiatric: Denies anxiety, depression, psychosis
