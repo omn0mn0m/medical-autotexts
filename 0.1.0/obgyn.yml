@@ -13,3 +13,35 @@ matches:
       Why Op: 
       Last MIGS Visit: 
       Risk Factors: 
+
+  - trigger: ":triage-ld"
+    form: |
+      Baby Movements: [[yesno]]
+      Contractions: [[yesno]]
+      Fluid Leakage: [[yesno]]
+      Vaginal Bleeding: [[yesno]]
+    form_fields:
+      yesno:
+        type: choice
+        values:
+          - Yes
+          - No
+
+  - trigger: ":sterile-vaginal-exam"
+    replace: |
+      Dilation (cm):
+      Effacement (%):
+      Station:
+
+  - trigger: ":GTPAL"
+    form: |
+      G[[gravida]]P[[term_births]]-[[premature_births]]-[[abortions]]-[[living_children]]
+
+  - triggers: [":fetal-heart-tracing", ":drcbravado"]
+    replace: |
+      Contractions:
+      Baseline Rate:
+      Variability:
+      Accelerations:
+      Decelerations:
+      Overall Assessment: 
